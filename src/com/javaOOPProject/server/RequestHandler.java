@@ -20,6 +20,7 @@ public class RequestHandler implements Runnable {
 	public void run() {
 		try {
 			recieveMassage();
+			processRequest();
 			sendClientMassage("hello ");
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -46,7 +47,7 @@ public class RequestHandler implements Runnable {
 		System.out.println("sended massage: " + massage);
 	}
 
-//	private void processRequest(){
-//		
-//	}
+	private void processRequest(){
+		
+	}
 }

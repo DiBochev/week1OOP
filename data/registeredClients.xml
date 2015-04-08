@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clients>
+	<client>
+		<username>admin1</username>
+		<password>admin1admin</password>
+		<permissionForCrypt>true</permissionForCrypt>
+	    	<cryptedCard triedToCrypt="1">34234234344234</cryptedCard>
+	    	<cryptedCard>34234234344234</cryptedCard>
+	    	<cryptedCard>34234234344234</cryptedCard>
+	</client>
+	<client>
+		<username>admin2</username>
+		<password>admin2admin</password>
+		<permissionForCrypt>true</permissionForCrypt>
+	    	<cryptedCard triedToCrypt="8">34234234344234</cryptedCard>
+	    	<cryptedCard>34234234344234</cryptedCard>
+	    	<cryptedCard>34234234344234</cryptedCard>
+	</client>
+	<client>
+		<username>admin3</username>
+		<password>admin3admin</password>
+		<permissionForCrypt>true</permissionForCrypt>
+	    	<cryptedCard triedToCrypt="9">34234234344234</cryptedCard>
+	    	<cryptedCard>34234234344234</cryptedCard>
+	    	<cryptedCard>34234234344234</cryptedCard>
+	</client>
+</clients>
